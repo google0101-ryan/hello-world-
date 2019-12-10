@@ -1,4 +1,4 @@
 # hello-world-
 Just a test repository
 
-#Following tutorial from GitHub!
+# Following tutorial from GitHub!
